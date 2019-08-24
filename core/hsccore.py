@@ -11,7 +11,7 @@ lazymux_banner = """
 *    *       *   *             *     *          *        *       *    *        *
 *    *   * * *     * * *   * * *     *          * * * *    * * *    * * *      *
 
-                   HSCSploit V1.0
+               HSCSploit V1.0
 """
 backtomenu_banner = """
   [99] Return to main menu|Возврат в главное меню
