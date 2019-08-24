@@ -11,7 +11,7 @@ def main():
 	print "   [03] Stress Testing|Стресс-тестирование"
 	print "   [04] Password Attacks|Взлом паролей"
 	print "   [05] Web Hacking|Веб атаки"
-	print "   [06] Exploitation Tools|Инструмены использования уязвимостей"
+	print "   [06] Exploitation Tools|Инструменты для использования уязвимостей"
 	print "   [07] Sniffing & Spoofing|Перехват данных"
 	print "   [08] Other|Прочее\n"
 	print "   [10] Exit the HSCSploit|Выйти из HSCSploit\n"
