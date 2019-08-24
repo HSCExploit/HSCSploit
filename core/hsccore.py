@@ -4,7 +4,7 @@ import os
 import sys
 import time
 
-lazymux_banner = """
+hscsploit_banner = """
 *    *     * * *    * * *    * * *   * * * *    *          * * *    * * *  * * * * *
 *    *    *       *         *        *      *   *        *       *    *        *
 * ** *      *    *            *      *  * *     *        *       *    *        *
@@ -36,7 +36,7 @@ def backtomenu_option():
 		restart_program()
 
 def banner():
-	print lazymux_banner
+	print hscsploit_banner
 
 def nmap():
 	print '\n###### Installing Nmap'
