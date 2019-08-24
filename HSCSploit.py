@@ -3,7 +3,7 @@
 import os
 import sys
 from time import sleep as timeout
-from core.lzmcore import *
+from core.HSCSploitcore import *
 
 def main():
 	banner()
