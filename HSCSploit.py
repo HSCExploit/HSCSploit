@@ -12,7 +12,7 @@ def main():
 	print "   [04] Password Attacks|Взлом паролей"
 	print "   [05] Web Hacking|Веб атаки"
 	print "   [06] Exploitation Tools|Инструмены использования уязвимостей"
-	print "   [07] Sniffing & Spoofing|Перехват данных в сети"
+	print "   [07] Sniffing & Spoofing|Перехват данных"
 	print "   [08] Other|Прочее\n"
 	print "   [10] Exit the HSCSploit|Выйти из HSCSploit\n"
 	lazymux = raw_input("HSCSploit > ")
