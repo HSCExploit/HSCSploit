@@ -6,7 +6,6 @@ from time import sleep as timeout
 from core.hsccore import *
 def main():
 	banner()
-	print "              HSCSploit V1.0"
 	print "   [01] Information Gathering|Сбор информации"
 	print "   [02] Vulnerability Scanner|Сканер уязвимостей"
 	print "   [03] Stress Testing|Стресс-тестирование"
